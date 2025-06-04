@@ -1,3 +1,10 @@
+## 🔗 Live Demo
+
+👉 [Click here to try the app](https://your-username.streamlit.app)
+
+No setup needed — runs directly in your browser.
+
+
 # Modular NLP Question Answering System
 
 A modular question answering system that processes large documents and structured tables using semantic search (Sentence-BERT + FAISS) and a lightweight T5 model for generating accurate answers.
