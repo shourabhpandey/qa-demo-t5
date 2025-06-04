@@ -1,6 +1,6 @@
 ## 🔗 Live Demo
 
-👉 [Click here to try the app](https://your-username.streamlit.app)
+👉 [Click here to try the app](https://app-demo-t5.streamlit.app)
 
 No setup needed — runs directly in your browser.
 
