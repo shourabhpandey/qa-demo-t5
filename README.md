@@ -26,8 +26,10 @@ Make sure you have Python 3.8+ installed.
 1. Clone the repo or download the source code.
 
 2. Install the required dependencies:
+
 ```bash
-pip install -r requirements.txt bash'''
+pip install -r requirements.txt
+
 
 ### Running the Project
 '''bash
