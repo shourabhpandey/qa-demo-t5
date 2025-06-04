@@ -67,7 +67,7 @@ You can replace these with your own documents or CSV files in the `data/` direct
 
 Below is a screenshot of the Streamlit web interface:
 
-![Streamlit UI](screenshot.png)
+![Streamlit UI](Screenshot 2025-06-04 at 11.11.05.png.png)
 
 ---
 
